@@ -1,4 +1,4 @@
-## CortX AI
+## :brain: CortX AI
 
 > **This project is in Alpha - it may introduce breaking changes** | **This project is not production ready**
 
