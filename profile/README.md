@@ -1,6 +1,8 @@
 ## CortX AI
-###### A <a href="https://www.data-savvy-solutions.com>Data Savvy Solutions</a> product.
+###### A [Data Savvy Solutions](https://www.data-savvy-solutions.com) product.
+
 > **This project is in Alpha - it may introduce breaking changes** | **This project is not production ready**
+
 
 <div align="center">
   <img src="https://github.com/cortxai/.github/blob/main/img/logo.png" alt="CortxAILogo">
