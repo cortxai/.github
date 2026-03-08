@@ -1,6 +1,10 @@
-## :brain: CortX AI
+## CortX AI
 
 > **This project is in Alpha - it may introduce breaking changes** | **This project is not production ready**
+
+<div align="center">
+  <img src="https://github.com/cortxai/.github/blob/main/img/logo.png" alt="CortxAILogo">
+</div>
 
 CortX AI is a **local-first platform for building intelligent software systems** where natural language, automation, and traditional software infrastructure work together as a single programmable environment.
 
